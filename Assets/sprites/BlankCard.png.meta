@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 53d3fd43457d78b4baf143ce3351b44b
+guid: 4ac1fe9d4348e4a24a18c0e5f2b5973d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4091005629594397538
-    second: START_0
-  - first:
-      213: 7829378225184373040
-    second: START_1
-  - first:
-      213: 6579799595287537452
-    second: START_2
+      213: -6102757112415190358
+    second: BlankCard_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: START_0
+      name: BlankCard_0
       rect:
         serializedVersion: 2
-        x: 688
-        y: 686
-        width: 640
-        height: 256
+        x: 77
+        y: 42
+        width: 498
+        height: 733
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,52 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 26be81ee1fb26c830800000000000000
-      internalID: 4091005629594397538
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: START_1
-      rect:
-        serializedVersion: 2
-        x: 1206
-        y: 629
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 039fa44930a87ac60800000000000000
-      internalID: 7829378225184373040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: START_2
-      rect:
-        serializedVersion: 2
-        x: 1285
-        y: 326
-        width: 13
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c276f52eed4205b50800000000000000
-      internalID: 6579799595287537452
+      spriteID: aa201047db6ae4ba0800000000000000
+      internalID: -6102757112415190358
       vertices: []
       indices: 
       edges: []
@@ -185,9 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      START_0: 4091005629594397538
-      START_1: 7829378225184373040
-      START_2: 6579799595287537452
+      BlankCard_0: -6102757112415190358
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
