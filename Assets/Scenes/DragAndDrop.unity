@@ -353,7 +353,7 @@ GameObject:
   - component: {fileID: 1603813887}
   - component: {fileID: 1603813890}
   m_Layer: 0
-  m_Name: RightDropArea
+  m_Name: Card3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -393,17 +393,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.000000007450581, y: -0.0000000018626451}
+  m_Offset: {x: 0.02784717, y: 0.014600515}
   m_SpriteTilingProperty:
-    border: {x: 0.049999997, y: 0.049999997, z: 0.049999997, w: 0.049999997}
+    border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.16, y: 0.16}
+    oldSize: {x: 4.98, y: 7.33}
     newSize: {x: 0.16, y: 0.16}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.11694974, y: 0.114238545}
+  m_Size: {x: 4.7912397, y: 7.151624}
   m_EdgeRadius: 0
 --- !u!212 &1603813888
 SpriteRenderer:
@@ -449,7 +449,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: -6102757112415190358, guid: 4ac1fe9d4348e4a24a18c0e5f2b5973d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -469,8 +469,8 @@ Transform:
   m_GameObject: {fileID: 1603813886}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.62, y: 0.81, z: -3.422019}
-  m_LocalScale: {x: 24.98748, y: 25.465996, z: 1}
+  m_LocalPosition: {x: 4.5, y: 0.78, z: -3.422019}
+  m_LocalScale: {x: 0.6446472, y: 0.6142278, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -487,6 +487,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1840d923af55f4e11bec87fce2e2ba58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  areaLabel: 
+  currentCard: {fileID: 0}
 --- !u!1 &1885536385
 GameObject:
   m_ObjectHideFlags: 0
@@ -500,7 +502,7 @@ GameObject:
   - component: {fileID: 1885536390}
   - component: {fileID: 1885536389}
   m_Layer: 0
-  m_Name: Card
+  m_Name: Card1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -647,7 +649,7 @@ GameObject:
   - component: {fileID: 2096114885}
   - component: {fileID: 2096114884}
   m_Layer: 0
-  m_Name: LeftDropArea
+  m_Name: Card2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -665,6 +667,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4174d47645d1f42049bf1f71667dd538, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  areaLabel: 
+  currentCard: {fileID: 0}
 --- !u!61 &2096114885
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -699,17 +703,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.00083550997, y: 0.00080758333}
+  m_Offset: {x: 0.00083613396, y: -0.03553641}
   m_SpriteTilingProperty:
-    border: {x: 0.049999997, y: 0.049999997, z: 0.049999997, w: 0.049999997}
+    border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.16, y: 0.16}
+    oldSize: {x: 4.98, y: 7.33}
     newSize: {x: 0.16, y: 0.16}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.10485645, y: 0.113161}
+  m_Size: {x: 4.873116, y: 7.173829}
   m_EdgeRadius: 0
 --- !u!212 &2096114886
 SpriteRenderer:
@@ -755,7 +759,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: -6102757112415190358, guid: 4ac1fe9d4348e4a24a18c0e5f2b5973d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -775,8 +779,8 @@ Transform:
   m_GameObject: {fileID: 2096114883}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.57, y: 0.83, z: -3.3786979}
-  m_LocalScale: {x: 26.822937, y: 27.75091, z: 1}
+  m_LocalPosition: {x: -6, y: 0.79, z: -3.3786979}
+  m_LocalScale: {x: 0.63447183, y: 0.6211371, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
