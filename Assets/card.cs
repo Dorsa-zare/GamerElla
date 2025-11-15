@@ -22,7 +22,17 @@ public class card : MonoBehaviour
     }
     private void OnMouseUp()
     {
-        
+        col.enabled = false;
+        Collider2D hitCollider = Physics2D.OverlapPoint(transform.position);
+        col.enabled = true;
+        if (hitCollider != null && hitCollider.TryGetComponent(out ICardDropArea cardDropArea))
+        {
+            cardDropArea.OnCardDropped(this);
+        }
+        else
+        {
+            transform.position = startDragPosition;
+        }
     }
     public Vector3 GetMousePositionInWorldSpace()
     {
