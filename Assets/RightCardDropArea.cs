@@ -1,16 +1,11 @@
 using UnityEngine;
 
-public class RightCardDropArea : MonoBehaviour
+public class RightCardDropArea : MonoBehaviour, ICardDropArea
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public void OnCardDropped(card card)
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        card.transform.position = transform.position; 
+        Debug.Log("Card dropped in the left area!");
     }
 }
