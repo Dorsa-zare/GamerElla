@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: fdb9ebdb57337f94f83aaa7490c1f28d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6903426879387772273
+    second: EndingSO_0
+  - first:
+      213: -1201692703423656695
+    second: EndingSO_1
+  - first:
+      213: -3491148330885013362
+    second: EndingSO_2
+  - first:
+      213: 3691120989962949340
+    second: EndingSO_3
+  - first:
+      213: -4098729219491150478
+    second: EndingSO_4
+  - first:
+      213: 7438785283865737913
+    second: EndingSO_5
+  - first:
+      213: 7429591701581386560
+    second: EndingSO_6
+  - first:
+      213: 2674199084557540084
+    second: EndingSO_7
+  - first:
+      213: 4739466612095358801
+    second: EndingSO_8
+  - first:
+      213: 919828703887051139
+    second: EndingSO_9
+  - first:
+      213: -6886485410374123360
+    second: EndingSO_10
+  - first:
+      213: -2777137073468465289
+    second: EndingSO_11
+  - first:
+      213: -6105105475893453326
+    second: EndingSO_12
+  - first:
+      213: -5553536328969069830
+    second: EndingSO_13
+  - first:
+      213: -4178382121820241133
+    second: EndingSO_14
+  - first:
+      213: 1357744018600401852
+    second: EndingSO_15
+  - first:
+      213: 6846448941986417978
+    second: EndingSO_16
+  - first:
+      213: -1452257627944225215
+    second: EndingSO_17
+  - first:
+      213: -2662608224760302407
+    second: EndingSO_18
+  - first:
+      213: -765382026764472545
+    second: EndingSO_19
+  - first:
+      213: -7873908669689914308
+    second: EndingSO_20
+  - first:
+      213: 1154166652253891232
+    second: EndingSO_21
+  - first:
+      213: 1306506638046880704
+    second: EndingSO_22
+  - first:
+      213: -7870107531344790252
+    second: EndingSO_23
+  - first:
+      213: -3877335530505437083
+    second: EndingSO_24
+  - first:
+      213: 3683284498578757483
+    second: EndingSO_25
+  - first:
+      213: 6748992952921933954
+    second: EndingSO_26
+  - first:
+      213: -4476824163628070488
+    second: EndingSO_27
+  - first:
+      213: 2902652289999220406
+    second: EndingSO_28
+  - first:
+      213: -7544396568854096032
+    second: EndingSO_29
+  - first:
+      213: 3806019760889810908
+    second: EndingSO_30
+  - first:
+      213: -7361809570478258996
+    second: EndingSO_31
+  - first:
+      213: -1244762664496459905
+    second: EndingSO_32
+  - first:
+      213: 1260769890144173069
+    second: EndingSO_33
+  - first:
+      213: -2922631118018231231
+    second: EndingSO_34
+  - first:
+      213: 3001395645015018822
+    second: EndingSO_35
+  - first:
+      213: 8132572533065520064
+    second: EndingSO_36
+  - first:
+      213: 4558954712906901128
+    second: EndingSO_37
+  - first:
+      213: 4085107495181582078
+    second: EndingSO_38
+  - first:
+      213: 9077172145842003651
+    second: EndingSO_39
+  - first:
+      213: 2913692052824075844
+    second: EndingSO_40
+  - first:
+      213: 2127348612799105460
+    second: EndingSO_41
+  - first:
+      213: -4123253291451300264
+    second: EndingSO_42
+  - first:
+      213: 3273351496997051386
+    second: EndingSO_43
+  - first:
+      213: -6725318657968978563
+    second: EndingSO_44
+  - first:
+      213: 5064929127594751549
+    second: EndingSO_45
+  - first:
+      213: 8462994500927284155
+    second: EndingSO_46
+  - first:
+      213: 3480675224005615040
+    second: EndingSO_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EndingSO_0
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1348
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a553144d91230a0800000000000000
+      internalID: -6903426879387772273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_1
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1428
+        width: 97
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d01436adab25fe0800000000000000
+      internalID: -1201692703423656695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_2
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1443
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80a6670713fc8fc0800000000000000
+      internalID: -3491148330885013362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_3
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1445
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2dab5ebfe793330800000000000000
+      internalID: 3691120989962949340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_4
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1412
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27547b9ad736e17c0800000000000000
+      internalID: -4098729219491150478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_5
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1228
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba7835adcfdb3760800000000000000
+      internalID: 7438785283865737913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_6
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1162
+        width: 165
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043d2f6f9463b1760800000000000000
+      internalID: 7429591701581386560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_7
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1162
+        width: 170
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa1abd16e9ac1520800000000000000
+      internalID: 2674199084557540084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_8
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1279
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15794ced5c7f5c140800000000000000
+      internalID: 4739466612095358801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_9
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1130
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389456d2553e3cc00800000000000000
+      internalID: 919828703887051139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_10
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1165
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a08db3610a4e60a0800000000000000
+      internalID: -6886485410374123360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_11
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1067
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f185bab80a579d0800000000000000
+      internalID: -2777137073468465289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_12
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1069
+        width: 83
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd14197aee464ba0800000000000000
+      internalID: -6105105475893453326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_13
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1064
+        width: 103
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa5298f120ede2b0800000000000000
+      internalID: -5553536328969069830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_14
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1082
+        width: 88
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313cf0529976306c0800000000000000
+      internalID: -4178382121820241133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_15
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 702
+        width: 89
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb9694cdfca7d210800000000000000
+      internalID: 1357744018600401852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_16
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 704
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d03f7e909730f50800000000000000
+      internalID: 6846448941986417978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_17
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 717
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146780cb16b88dbe0800000000000000
+      internalID: -1452257627944225215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_18
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 702
+        width: 120
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4f02b3de38c0bd0800000000000000
+      internalID: -2662608224760302407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_19
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 724
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f2c311a11d065f0800000000000000
+      internalID: -765382026764472545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_20
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 732
+        width: 89
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c934d58c14ab290800000000000000
+      internalID: -7873908669689914308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_21
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 729
+        width: 194
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aae137847c640010800000000000000
+      internalID: 1154166652253891232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_22
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 660
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c369797dd4a12210800000000000000
+      internalID: 1306506638046880704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 622
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d311ad5e2c7c290800000000000000
+      internalID: -7870107531344790252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_24
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 630
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5600935c0efe03ac0800000000000000
+      internalID: -3877335530505437083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_25
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 495
+        width: 79
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b675d709cb7ad1330800000000000000
+      internalID: 3683284498578757483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_26
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 486
+        width: 142
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288c68e355d39ad50800000000000000
+      internalID: 6748992952921933954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 609
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9401574202fd1c0800000000000000
+      internalID: -4476824163628070488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 613
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bea0ebf0ea484820800000000000000
+      internalID: 2902652289999220406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_29
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 488
+        width: 176
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06796c4ea4bec4790800000000000000
+      internalID: -7544396568854096032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_30
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 503
+        width: 80
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf44ffaec2b1d430800000000000000
+      internalID: 3806019760889810908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_31
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 501
+        width: 239
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4829f333995d990800000000000000
+      internalID: -7361809570478258996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_32
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 500
+        width: 229
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f0501a3f6b9bee0800000000000000
+      internalID: -1244762664496459905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_33
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 521
+        width: 105
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c3d8509872f7110800000000000000
+      internalID: 1260769890144173069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_34
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 498
+        width: 177
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1444501ab7ab077d0800000000000000
+      internalID: -2922631118018231231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 479
+        width: 91
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d4683ef6917a920800000000000000
+      internalID: 3001395645015018822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 490
+        width: 82
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3187f61a3bcd070800000000000000
+      internalID: 8132572533065520064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 596
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886a8e13829a44f30800000000000000
+      internalID: 4558954712906901128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_38
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 479
+        width: 153
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe759f7f9731b830800000000000000
+      internalID: 4085107495181582078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_39
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 485
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce9bf549f798fd70800000000000000
+      internalID: 9077172145842003651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_40
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 491
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e25711c738f6820800000000000000
+      internalID: 2913692052824075844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_41
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 487
+        width: 230
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b98f4bca4cd58d10800000000000000
+      internalID: 2127348612799105460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_42
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 507
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856c5143af247c6c0800000000000000
+      internalID: -4123253291451300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_43
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 480
+        width: 174
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb9083f7d74d6d20800000000000000
+      internalID: 3273351496997051386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_44
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 474
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75c376105edaa2a0800000000000000
+      internalID: -6725318657968978563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_45
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 536
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3670d6d43e3a4640800000000000000
+      internalID: 5064929127594751549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_46
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 480
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3ead3e8a8927570800000000000000
+      internalID: 8462994500927284155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndingSO_47
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 173
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd9b51cca7dd4030800000000000000
+      internalID: 3480675224005615040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EndingSO_0: -6903426879387772273
+      EndingSO_1: -1201692703423656695
+      EndingSO_10: -6886485410374123360
+      EndingSO_11: -2777137073468465289
+      EndingSO_12: -6105105475893453326
+      EndingSO_13: -5553536328969069830
+      EndingSO_14: -4178382121820241133
+      EndingSO_15: 1357744018600401852
+      EndingSO_16: 6846448941986417978
+      EndingSO_17: -1452257627944225215
+      EndingSO_18: -2662608224760302407
+      EndingSO_19: -765382026764472545
+      EndingSO_2: -3491148330885013362
+      EndingSO_20: -7873908669689914308
+      EndingSO_21: 1154166652253891232
+      EndingSO_22: 1306506638046880704
+      EndingSO_23: -7870107531344790252
+      EndingSO_24: -3877335530505437083
+      EndingSO_25: 3683284498578757483
+      EndingSO_26: 6748992952921933954
+      EndingSO_27: -4476824163628070488
+      EndingSO_28: 2902652289999220406
+      EndingSO_29: -7544396568854096032
+      EndingSO_3: 3691120989962949340
+      EndingSO_30: 3806019760889810908
+      EndingSO_31: -7361809570478258996
+      EndingSO_32: -1244762664496459905
+      EndingSO_33: 1260769890144173069
+      EndingSO_34: -2922631118018231231
+      EndingSO_35: 3001395645015018822
+      EndingSO_36: 8132572533065520064
+      EndingSO_37: 4558954712906901128
+      EndingSO_38: 4085107495181582078
+      EndingSO_39: 9077172145842003651
+      EndingSO_4: -4098729219491150478
+      EndingSO_40: 2913692052824075844
+      EndingSO_41: 2127348612799105460
+      EndingSO_42: -4123253291451300264
+      EndingSO_43: 3273351496997051386
+      EndingSO_44: -6725318657968978563
+      EndingSO_45: 5064929127594751549
+      EndingSO_46: 8462994500927284155
+      EndingSO_47: 3480675224005615040
+      EndingSO_5: 7438785283865737913
+      EndingSO_6: 7429591701581386560
+      EndingSO_7: 2674199084557540084
+      EndingSO_8: 4739466612095358801
+      EndingSO_9: 919828703887051139
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
