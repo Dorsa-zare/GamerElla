@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 911351fb67b3e45499251dec5955e3eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5575396332780952661
+    second: TheatreSO_0
+  - first:
+      213: -7305730670450444602
+    second: TheatreSO_1
+  - first:
+      213: 193944833845364880
+    second: TheatreSO_2
+  - first:
+      213: -116444350647875999
+    second: TheatreSO_3
+  - first:
+      213: 4771766669971023807
+    second: TheatreSO_4
+  - first:
+      213: 5122545488585399716
+    second: TheatreSO_5
+  - first:
+      213: 41907137611804067
+    second: TheatreSO_6
+  - first:
+      213: -7769134911723293255
+    second: TheatreSO_7
+  - first:
+      213: -7951978909656794404
+    second: TheatreSO_8
+  - first:
+      213: 6350836101144024170
+    second: TheatreSO_9
+  - first:
+      213: 3670181154648167668
+    second: TheatreSO_10
+  - first:
+      213: 3650714780233233999
+    second: TheatreSO_11
+  - first:
+      213: -7823690659968403585
+    second: TheatreSO_12
+  - first:
+      213: 5922953695118676898
+    second: TheatreSO_13
+  - first:
+      213: -2008976199561360126
+    second: TheatreSO_14
+  - first:
+      213: -8823386877195888386
+    second: TheatreSO_15
+  - first:
+      213: 3383034093371890307
+    second: TheatreSO_16
+  - first:
+      213: -3140743594820152073
+    second: TheatreSO_17
+  - first:
+      213: 3608815648685268322
+    second: TheatreSO_18
+  - first:
+      213: -1886645874327445608
+    second: TheatreSO_19
+  - first:
+      213: -6125926898707926059
+    second: TheatreSO_20
+  - first:
+      213: -7277671431190582065
+    second: TheatreSO_21
+  - first:
+      213: -5881247577193378387
+    second: TheatreSO_22
+  - first:
+      213: 5932756896319445262
+    second: TheatreSO_23
+  - first:
+      213: 6063096062963148521
+    second: TheatreSO_24
+  - first:
+      213: 7197745802443500618
+    second: TheatreSO_25
+  - first:
+      213: -6353323589612632669
+    second: TheatreSO_26
+  - first:
+      213: -2003399231835208978
+    second: TheatreSO_27
+  - first:
+      213: 258024442427424197
+    second: TheatreSO_28
+  - first:
+      213: 3055096614745063870
+    second: TheatreSO_29
+  - first:
+      213: 174329500676320722
+    second: TheatreSO_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TheatreSO_0
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 685
+        width: 83
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba36396339630a2b0800000000000000
+      internalID: -5575396332780952661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 673
+        width: 119
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6ff13a9a4dc9a90800000000000000
+      internalID: -7305730670450444602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 671
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098006f7cc701b200800000000000000
+      internalID: 193944833845364880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 709
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1664883ea7e426ef0800000000000000
+      internalID: -116444350647875999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 574
+        width: 148
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7eba22188b83240800000000000000
+      internalID: 4771766669971023807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_5
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 671
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad99e04bffe61740800000000000000
+      internalID: 5122545488585399716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 648
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ada7e2d152e49000800000000000000
+      internalID: 41907137611804067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_7
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 650
+        width: 159
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5b5aed5fc7e2490800000000000000
+      internalID: -7769134911723293255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_8
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 701
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda32842055e4a190800000000000000
+      internalID: -7951978909656794404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_9
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 655
+        width: 148
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a649a6b29c3b22850800000000000000
+      internalID: 6350836101144024170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 681
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f41320905a1fe230800000000000000
+      internalID: 3670181154648167668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 672
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46f11410c1f9a230800000000000000
+      internalID: 3650714780233233999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_12
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 578
+        width: 228
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77ba04ebcaac6390800000000000000
+      internalID: -7823690659968403585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 620
+        width: 103
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3d2aa210f823250800000000000000
+      internalID: 5922953695118676898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 574
+        width: 172
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d4eee5aceae14e0800000000000000
+      internalID: -2008976199561360126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_15
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 574
+        width: 135
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef855ec22680d8580800000000000000
+      internalID: -8823386877195888386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 363
+        width: 169
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a97767593f2fe20800000000000000
+      internalID: 3383034093371890307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 459
+        width: 159
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f459244756d964d0800000000000000
+      internalID: -3140743594820152073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_18
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 357
+        width: 173
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d91cf46b6151230800000000000000
+      internalID: 3608815648685268322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 453
+        width: 157
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f91cbb29941d5e0800000000000000
+      internalID: -1886645874327445608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_20
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 453
+        width: 152
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3f08231f55cfaa0800000000000000
+      internalID: -6125926898707926059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_21
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 454
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc60ef5464800b90800000000000000
+      internalID: -7277671431190582065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_22
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 459
+        width: 160
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad034d1d7c916ea0800000000000000
+      internalID: -5881247577193378387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_23
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 456
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e099edfc6f2655250800000000000000
+      internalID: 5932756896319445262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_24
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 458
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6ecffdeb1742450800000000000000
+      internalID: 6063096062963148521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_25
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 367
+        width: 331
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c243a0ca783e360800000000000000
+      internalID: 7197745802443500618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_26
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 374
+        width: 93
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5870a4bd574d7a0800000000000000
+      internalID: -6353323589612632669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_27
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 349
+        width: 161
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee20c2b530f7234e0800000000000000
+      internalID: -2003399231835208978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_28
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 362
+        width: 178
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd31420ddfa49300800000000000000
+      internalID: 258024442427424197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_29
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 386
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1c06c3f22e56a20800000000000000
+      internalID: 3055096614745063870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheatreSO_30
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 350
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddeea9d1c75b6200800000000000000
+      internalID: 174329500676320722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TheatreSO_0: -5575396332780952661
+      TheatreSO_1: -7305730670450444602
+      TheatreSO_10: 3670181154648167668
+      TheatreSO_11: 3650714780233233999
+      TheatreSO_12: -7823690659968403585
+      TheatreSO_13: 5922953695118676898
+      TheatreSO_14: -2008976199561360126
+      TheatreSO_15: -8823386877195888386
+      TheatreSO_16: 3383034093371890307
+      TheatreSO_17: -3140743594820152073
+      TheatreSO_18: 3608815648685268322
+      TheatreSO_19: -1886645874327445608
+      TheatreSO_2: 193944833845364880
+      TheatreSO_20: -6125926898707926059
+      TheatreSO_21: -7277671431190582065
+      TheatreSO_22: -5881247577193378387
+      TheatreSO_23: 5932756896319445262
+      TheatreSO_24: 6063096062963148521
+      TheatreSO_25: 7197745802443500618
+      TheatreSO_26: -6353323589612632669
+      TheatreSO_27: -2003399231835208978
+      TheatreSO_28: 258024442427424197
+      TheatreSO_29: 3055096614745063870
+      TheatreSO_3: -116444350647875999
+      TheatreSO_30: 174329500676320722
+      TheatreSO_4: 4771766669971023807
+      TheatreSO_5: 5122545488585399716
+      TheatreSO_6: 41907137611804067
+      TheatreSO_7: -7769134911723293255
+      TheatreSO_8: -7951978909656794404
+      TheatreSO_9: 6350836101144024170
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

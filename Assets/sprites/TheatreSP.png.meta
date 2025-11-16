@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: db24356c57c12bf46a042cc0cbf74060
+guid: d24fa261a3123144fb8306423c4cd46d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9208715080272408583
-    second: NextButton_0
-  - first:
-      213: -7045320980046531939
-    second: NextButton_1
+      213: 1098135910024182707
+    second: TheatreSP_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -40,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -49,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -78,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -103,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: NextButton_0
+      name: TheatreSP_0
       rect:
         serializedVersion: 2
-        x: 136
-        y: 374
-        width: 2040
-        height: 815
+        x: 0
+        y: 0
+        width: 1544
+        height: 1084
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7007b6d539debcf70800000000000000
-      internalID: 9208715080272408583
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: NextButton_1
-      rect:
-        serializedVersion: 2
-        x: 1789
-        y: 191
-        width: 21
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d9238b775edf93e90800000000000000
-      internalID: -7045320980046531939
+      spriteID: 3bb7710cacc5d3f00800000000000000
+      internalID: 1098135910024182707
       vertices: []
       indices: 
       edges: []
@@ -150,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -160,8 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      NextButton_0: 9208715080272408583
-      NextButton_1: -7045320980046531939
+      TheatreSP_0: 1098135910024182707
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
