@@ -3,9 +3,9 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set; }
-    public int so;
-    public int sx;
-    public int sp;
+    public int so; //Social
+    public int sx; //Sexual
+    public int sp; //Conversation
 
     private void Awake()
     {
