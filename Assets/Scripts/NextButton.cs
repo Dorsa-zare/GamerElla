@@ -7,7 +7,7 @@ public class changeScenes : MonoBehaviour, IPointerEnterHandler, IPointerExitHan
     private GameManager manager;
     private SliderScript sliderScript;
     public GameObject ImageAppear; 
-    public int sceneIndex = 2;
+    public int sceneIndex = 4;
     
     void Start()
     {

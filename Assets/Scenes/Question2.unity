@@ -235,6 +235,7 @@ MonoBehaviour:
   ImageAppear:
   - {fileID: 1769184984}
   option: sp
+  sceneIndex: 3
 --- !u!61 &231403318
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -670,6 +671,7 @@ MonoBehaviour:
   ImageAppear:
   - {fileID: 710354164}
   option: so
+  sceneIndex: 3
 --- !u!82 &446142032
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1622,6 +1624,7 @@ MonoBehaviour:
   ImageAppear:
   - {fileID: 1090174000}
   option: sx
+  sceneIndex: 3
 --- !u!61 &1296036823
 BoxCollider2D:
   m_ObjectHideFlags: 0
