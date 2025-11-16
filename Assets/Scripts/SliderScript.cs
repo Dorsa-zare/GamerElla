@@ -53,15 +53,15 @@ public class SliderScript : MonoBehaviour
         }
         else if (value >= 3 && value < 6)
         {
-            targetAlpha1 = 0f;
+            targetAlpha1 = 1f;
             targetAlpha2 = 1f;
             targetAlpha3 = 0f;
             currentOption = "sp";
         }
         else
         {
-            targetAlpha1 = 0f;
-            targetAlpha2 = 0f;
+            targetAlpha1 = 1f;
+            targetAlpha2 = 1f;
             targetAlpha3 = 1f;
             currentOption = "sx";
         }
