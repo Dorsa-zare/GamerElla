@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Question2.unity
     guid: 12ca093a38c12944eb551babae99e7d2
   - enabled: 1
-    path: Assets/Scenes/Slider.unity
+    path: Assets/Scenes/Question3.unity
     guid: bbc0db0d75a234ed4ab2ad4bb0b30548
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
