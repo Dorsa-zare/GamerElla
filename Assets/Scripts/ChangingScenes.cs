@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 public class changeScenes : MonoBehaviour
 {
     private GameManager manager;
-    public int sceneIndex = 3;
+    public int sceneIndex = 2;
     [SerializeField] private string option;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

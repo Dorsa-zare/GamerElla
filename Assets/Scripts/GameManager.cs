@@ -3,16 +3,16 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set; }
-    public int so; //Social
-    public int sx; //Sexual
-    public int sp; //Conversation
+    public int so; // Social
+    public int sx; // Sexual
+    public int sp; // Conversation
 
     private void Awake()
     {
         if (Instance == null)
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject); // Optional: Keep the GameManager across scenes
+            DontDestroyOnLoad(gameObject); // Keep the GameManager across scenes
         }
         else
         {
@@ -20,10 +20,11 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Start()
     {
-        
+        // Reset scores when the game starts
+        ResetScores();
+        Debug.Log("Game started - scores reset to 0");
     }
 
     public void AddPoints(string option, int score)
@@ -33,6 +34,21 @@ public class GameManager : MonoBehaviour
             case "sp": sp += score; break;
             case "sx": sx += score; break;
             case "so": so += score; break;
+            default:
+                Debug.LogWarning($"Invalid option: {option}");
+                break;
         }
+        
+        // Optional: Log the current scores for debugging
+        Debug.Log($"Points added to {option}. Current scores - SO: {so}, SX: {sx}, SP: {sp}");
+    }
+
+    // Method to reset scores
+    public void ResetScores()
+    {
+        so = 0;
+        sx = 0;
+        sp = 0;
+        Debug.Log("Scores reset!");
     }
 }

@@ -1,6 +1,7 @@
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class SliderScript : MonoBehaviour
 {
@@ -12,6 +13,10 @@ public class SliderScript : MonoBehaviour
     [Header("Fade Settings")]
     public float fadeDuration = 0.3f; // How long the fade takes
 
+    [Header("Scene Settings")]
+    public int nextSceneIndex = 3; // Scene to load when clicking
+    public int pointsToAdd = 2; // How many points to add
+
     private float currentAlpha1 = 1f;
     private float currentAlpha2 = 0f;
     private float currentAlpha3 = 0f;
@@ -20,8 +25,18 @@ public class SliderScript : MonoBehaviour
     private float targetAlpha2 = 0f;
     private float targetAlpha3 = 0f;
 
+    private string currentOption = "so"; // Tracks which option is currently selected
+    private GameManager gameManager;
+
     void Start()
     {
+        gameManager = GameManager.Instance;
+        
+        if (gameManager == null)
+        {
+            Debug.LogError("SliderScript: GameManager instance not found!");
+        }
+
         // Add a listener to the slider's OnValueChanged event
         if (fadeSlider != null)
         {
@@ -47,26 +62,29 @@ public class SliderScript : MonoBehaviour
     void OnSliderValueChanged(float value)
     {
         // Set target alphas based on slider value
-        // Show only image 1 when slider is 0-2
+        // Show only image 1 (SO) when slider is 0-2
         if (value < 3)
         {
             targetAlpha1 = 1f;
             targetAlpha2 = 0f;
             targetAlpha3 = 0f;
+            currentOption = "so";
         }
-        // Show only image 2 when slider is 3-5
+        // Show only image 2 (SP) when slider is 3-5
         else if (value >= 3 && value < 6)
         {
             targetAlpha1 = 0f;
             targetAlpha2 = 1f;
             targetAlpha3 = 0f;
+            currentOption = "sp";
         }
-        // Show only image 3 when slider is 6+
+        // Show only image 3 (SX) when slider is 6+
         else
         {
             targetAlpha1 = 0f;
             targetAlpha2 = 0f;
             targetAlpha3 = 1f;
+            currentOption = "sx";
         }
     }
 
@@ -78,5 +96,26 @@ public class SliderScript : MonoBehaviour
             tempColor.a = alpha;
             image.color = tempColor;
         }
+    }
+
+    // Call this method when the player clicks to continue
+    public void OnContinueClicked()
+    {
+        if (gameManager != null)
+        {
+            gameManager.AddPoints(currentOption, pointsToAdd);
+            Debug.Log($"Added {pointsToAdd} points to {currentOption}");
+            SceneManager.LoadScene(nextSceneIndex);
+        }
+        else
+        {
+            Debug.LogWarning("GameManager is not available!");
+        }
+    }
+
+    // If you want to use OnMouseDown on this GameObject
+    void OnMouseDown()
+    {
+        OnContinueClicked();
     }
 }
