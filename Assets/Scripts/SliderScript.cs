@@ -9,6 +9,10 @@ public class SliderScript : MonoBehaviour
     public Image targetImage2;
     public Image targetImage3;
 
+    public Image promptSP;
+    public Image promptSX;
+    public Image promptSO;
+
     [Header("Fade Settings")]
     public float fadeDuration = 0.3f;
 
@@ -19,6 +23,14 @@ public class SliderScript : MonoBehaviour
     private float targetAlpha1 = 1f;
     private float targetAlpha2 = 0f;
     private float targetAlpha3 = 0f;
+
+    private float p_currentAlpha1 = 1f;
+    private float p_currentAlpha2 = 0f;
+    private float p_currentAlpha3 = 0f;
+
+    private float p_targetAlpha1 = 1f;
+    private float p_targetAlpha2 = 0f;
+    private float p_targetAlpha3 = 0f;
 
     private string currentOption = "so"; // Tracks which option is currently selected
 
@@ -37,9 +49,17 @@ public class SliderScript : MonoBehaviour
         currentAlpha2 = Mathf.Lerp(currentAlpha2, targetAlpha2, Time.deltaTime / fadeDuration);
         currentAlpha3 = Mathf.Lerp(currentAlpha3, targetAlpha3, Time.deltaTime / fadeDuration);
 
+        p_currentAlpha1 = Mathf.Lerp(p_currentAlpha1, p_targetAlpha1, Time.deltaTime / fadeDuration);
+        p_currentAlpha2 = Mathf.Lerp(p_currentAlpha2, p_targetAlpha2, Time.deltaTime / fadeDuration);
+        p_currentAlpha3 = Mathf.Lerp(p_currentAlpha3, p_targetAlpha3, Time.deltaTime / fadeDuration);
+
         SetImageAlpha(targetImage, currentAlpha1);
         SetImageAlpha(targetImage2, currentAlpha2);
         SetImageAlpha(targetImage3, currentAlpha3);
+
+        SetImageAlpha(promptSP, currentAlpha1);
+        SetImageAlpha(promptSX, currentAlpha2);
+        SetImageAlpha(promptSO, currentAlpha3);
     }
 
     void OnSliderValueChanged(float value)
@@ -49,6 +69,11 @@ public class SliderScript : MonoBehaviour
             targetAlpha1 = 1f;
             targetAlpha2 = 0f;
             targetAlpha3 = 0f;
+
+            p_targetAlpha1 = 1f;
+            p_targetAlpha2 = 0f;
+            p_targetAlpha3 = 0f;
+
             currentOption = "sp";
         }
         else if (value >= 3 && value < 6)
@@ -56,6 +81,10 @@ public class SliderScript : MonoBehaviour
             targetAlpha1 = 1f;
             targetAlpha2 = 1f;
             targetAlpha3 = 0f;
+
+            p_targetAlpha1 = 0f;
+            p_targetAlpha2 = 1f;
+            p_targetAlpha3 = 0f;
             currentOption = "sx";
         }
         else
@@ -63,6 +92,10 @@ public class SliderScript : MonoBehaviour
             targetAlpha1 = 1f;
             targetAlpha2 = 1f;
             targetAlpha3 = 1f;
+
+            p_targetAlpha1 = 0f;
+            p_targetAlpha2 = 0f;
+            p_targetAlpha3 = 1f;
             currentOption = "so";
         }
     }
