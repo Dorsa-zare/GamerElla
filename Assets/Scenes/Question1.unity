@@ -235,6 +235,7 @@ MonoBehaviour:
   - {fileID: 1769184984}
   - {fileID: 788632206}
   option: sp
+  sceneIndex: 2
 --- !u!61 &231403318
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -626,6 +627,7 @@ MonoBehaviour:
   - {fileID: 1034792287}
   - {fileID: 710354164}
   option: so
+  sceneIndex: 2
 --- !u!82 &446142032
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1535,6 +1537,7 @@ MonoBehaviour:
   - {fileID: 1090174000}
   - {fileID: 1837821619}
   option: sx
+  sceneIndex: 2
 --- !u!61 &1296036823
 BoxCollider2D:
   m_ObjectHideFlags: 0
