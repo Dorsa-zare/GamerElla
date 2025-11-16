@@ -14,6 +14,10 @@ public class AudioManager : MonoBehaviour
     {
         musicSource.clip = background;
         musicSource.Play();
+        
+        // Enable looping
+        musicSource.loop = true;
+        
     }
     
 }
