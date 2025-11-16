@@ -25,7 +25,7 @@ public class MainMenu : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 
     public void OnPointerExit(PointerEventData eventData)
     {
-        foreach (GameObject image in ImageAppear) image.SetActive(true);
+        foreach (GameObject image in ImageAppear) image.SetActive(false);
     }
 }
 
