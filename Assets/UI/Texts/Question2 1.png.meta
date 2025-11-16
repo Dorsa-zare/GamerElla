@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 8cf7c45ad7cd2684cb67a6969a2ab92e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9196222797632215259
+    second: Question2 1_0
+  - first:
+      213: -948475846189066834
+    second: Question2 1_1
+  - first:
+      213: 1232101560828426878
+    second: Question2 1_2
+  - first:
+      213: 6832931029341273769
+    second: Question2 1_3
+  - first:
+      213: -1309725201955383390
+    second: Question2 1_4
+  - first:
+      213: 4250422422735228319
+    second: Question2 1_5
+  - first:
+      213: 7298840828551948511
+    second: Question2 1_6
+  - first:
+      213: 3169765737309763836
+    second: Question2 1_7
+  - first:
+      213: -2609046095416532116
+    second: Question2 1_8
+  - first:
+      213: 9080479616306703625
+    second: Question2 1_9
+  - first:
+      213: 4848856158234814809
+    second: Question2 1_10
+  - first:
+      213: -6287377035077178592
+    second: Question2 1_11
+  - first:
+      213: -6696096674463190761
+    second: Question2 1_12
+  - first:
+      213: -8051377106176649118
+    second: Question2 1_13
+  - first:
+      213: 8644173915831332790
+    second: Question2 1_14
+  - first:
+      213: -8614843661227536449
+    second: Question2 1_15
+  - first:
+      213: -8917470306748082795
+    second: Question2 1_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Question2 1_0
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 47
+        width: 94
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52768c7d614706080800000000000000
+      internalID: -9196222797632215259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 51
+        width: 83
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5dcdd3e3656d2f0800000000000000
+      internalID: -948475846189066834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 55
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7af16477dd491110800000000000000
+      internalID: 1232101560828426878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_3
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 60
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae71aa919273de50800000000000000
+      internalID: 6832931029341273769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_4
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 138
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a792183edbe2dde0800000000000000
+      internalID: -1309725201955383390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_5
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 44
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d0d7c7ca88cfa30800000000000000
+      internalID: 4250422422735228319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_6
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 46
+        width: 81
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8e4f90011ba4560800000000000000
+      internalID: 7298840828551948511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_7
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 44
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf87d89d4254dfb20800000000000000
+      internalID: 3169765737309763836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_8
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 34
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63e318466ecacbd0800000000000000
+      internalID: -2609046095416532116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_9
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 53
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90de220c918540e70800000000000000
+      internalID: 9080479616306703625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_10
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 53
+        width: 111
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9592d8e4cf89a4340800000000000000
+      internalID: 4848856158234814809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_11
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 53
+        width: 159
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ba64706efbeb8a0800000000000000
+      internalID: -6287377035077178592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 66
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71172f05d8fa213a0800000000000000
+      internalID: -6696096674463190761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 69
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268d0a11e23c34090800000000000000
+      internalID: -8051377106176649118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_14
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 43
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfe2dda06646f770800000000000000
+      internalID: 8644173915831332790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_15
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 41
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfc101655de17880800000000000000
+      internalID: -8614843661227536449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question2 1_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 49
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595df27b008ce3480800000000000000
+      internalID: -8917470306748082795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Question2 1_0: -9196222797632215259
+      Question2 1_1: -948475846189066834
+      Question2 1_10: 4848856158234814809
+      Question2 1_11: -6287377035077178592
+      Question2 1_12: -6696096674463190761
+      Question2 1_13: -8051377106176649118
+      Question2 1_14: 8644173915831332790
+      Question2 1_15: -8614843661227536449
+      Question2 1_16: -8917470306748082795
+      Question2 1_2: 1232101560828426878
+      Question2 1_3: 6832931029341273769
+      Question2 1_4: -1309725201955383390
+      Question2 1_5: 4250422422735228319
+      Question2 1_6: 7298840828551948511
+      Question2 1_7: 3169765737309763836
+      Question2 1_8: -2609046095416532116
+      Question2 1_9: 9080479616306703625
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
