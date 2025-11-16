@@ -3,14 +3,27 @@ using UnityEngine.EventSystems;
 
 public class Hover : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
-    public GameObject ImageAppear; 
+    private GameManager manager;
+    public GameObject[] ImageAppear; 
+    [SerializeField] private string option;
+
+    void Start()
+    {
+        manager = GameManager.Instance;
+    }
+
     public void OnPointerEnter(PointerEventData eventData)
     {
-        ImageAppear.SetActive(true); 
+        foreach (GameObject image in ImageAppear) image.SetActive(true); 
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
-        ImageAppear.SetActive(false);
+        foreach (GameObject image in ImageAppear) image.SetActive(false);
+    }
+
+    void OnMouseDown()
+    {
+        manager.AddPoints(option, 2);
     }
 }

@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: d0a7ebad7fd0ad2488d090e18ba0f89e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4877790094650515097
+    second: Gossip_0
+  - first:
+      213: -8424628501806250984
+    second: Gossip_1
+  - first:
+      213: -5162357167068304679
+    second: Gossip_2
+  - first:
+      213: 1395009272542840261
+    second: Gossip_3
+  - first:
+      213: 2433463059864858572
+    second: Gossip_4
+  - first:
+      213: 7199723715043014019
+    second: Gossip_5
+  - first:
+      213: -8753404853622778157
+    second: Gossip_6
+  - first:
+      213: -3360839119167057140
+    second: Gossip_7
+  - first:
+      213: 1720958706459002792
+    second: Gossip_8
+  - first:
+      213: -2088559922743386902
+    second: Gossip_9
+  - first:
+      213: -110723910852791693
+    second: Gossip_10
+  - first:
+      213: 5402919561023498679
+    second: Gossip_11
+  - first:
+      213: 7228642149489435186
+    second: Gossip_12
+  - first:
+      213: 3288003808796717351
+    second: Gossip_13
+  - first:
+      213: -86241973066252685
+    second: Gossip_14
+  - first:
+      213: -4857969632333875480
+    second: Gossip_15
+  - first:
+      213: 6346061066669929032
+    second: Gossip_16
+  - first:
+      213: 2191830410973889425
+    second: Gossip_17
+  - first:
+      213: 4386275859183873659
+    second: Gossip_18
+  - first:
+      213: 7251125192320062395
+    second: Gossip_19
+  - first:
+      213: -5819531740439905774
+    second: Gossip_20
+  - first:
+      213: -8556348428218557670
+    second: Gossip_21
+  - first:
+      213: 3929138093918613988
+    second: Gossip_22
+  - first:
+      213: -1101562482568095363
+    second: Gossip_23
+  - first:
+      213: -6709880359580293641
+    second: Gossip_24
+  - first:
+      213: 1677534862753355796
+    second: Gossip_25
+  - first:
+      213: -8420772116028315680
+    second: Gossip_26
+  - first:
+      213: -1562818632256835829
+    second: Gossip_27
+  - first:
+      213: -6418882312313423416
+    second: Gossip_28
+  - first:
+      213: 7271537691798209046
+    second: Gossip_29
+  - first:
+      213: -762862539828228790
+    second: Gossip_30
+  - first:
+      213: 295778693553044113
+    second: Gossip_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gossip_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 65
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761ef67a0cb9e4cb0800000000000000
+      internalID: -4877790094650515097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 78
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81405316305b51b80800000000000000
+      internalID: -8424628501806250984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 72
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daa335028f9b58b0800000000000000
+      internalID: -5162357167068304679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 77
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5ca44da811c5310800000000000000
+      internalID: 1395009272542840261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 87
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfa74982c565c120800000000000000
+      internalID: 2433463059864858572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 89
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3853814b29e8ae360800000000000000
+      internalID: 7199723715043014019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 94
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d652a4c9a8a58680800000000000000
+      internalID: -8753404853622778157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_7
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 102
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c039fcaa0a6eb51d0800000000000000
+      internalID: -3360839119167057140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_8
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 97
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7ca9353d212e710800000000000000
+      internalID: 1720958706459002792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_9
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 93
+        width: 36
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec53c0e0d1f303e0800000000000000
+      internalID: -2088559922743386902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_10
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 101
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3723a719031a67ef0800000000000000
+      internalID: -110723910852791693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_11
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 43
+        width: 91
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9a0d007b60bfa40800000000000000
+      internalID: 5402919561023498679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_12
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 65
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232ebb86cbb415460800000000000000
+      internalID: 7228642149489435186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_13
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 74
+        width: 132
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721b5732b0651ad20800000000000000
+      internalID: 3288003808796717351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_14
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 65
+        width: 36
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e38a6e16b9dcef0800000000000000
+      internalID: -86241973066252685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_15
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 80
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6ba17ab56059cb0800000000000000
+      internalID: -4857969632333875480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_16
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 71
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8423cc1daecb11850800000000000000
+      internalID: 6346061066669929032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_17
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 78
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1934ffd5522fa6e10800000000000000
+      internalID: 2191830410973889425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_18
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 71
+        width: 79
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ea68987ae2fdc30800000000000000
+      internalID: 4386275859183873659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_19
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 71
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb39f1eb1fb21a460800000000000000
+      internalID: 7251125192320062395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_20
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 165
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21af7fb17bedc3fa0800000000000000
+      internalID: -5819531740439905774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_21
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 73
+        width: 83
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b9f81207eb14980800000000000000
+      internalID: -8556348428218557670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_22
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 81
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e17979674a178630800000000000000
+      internalID: 3929138093918613988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_23
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 78
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7991a822c676b0f0800000000000000
+      internalID: -1101562482568095363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_24
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 86
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5a8d90d57b1e2a0800000000000000
+      internalID: -6709880359580293641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_25
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 69
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4185fb8d11dc74710800000000000000
+      internalID: 1677534862753355796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_26
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 78
+        width: 36
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e72e992068632b80800000000000000
+      internalID: -8420772116028315680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_27
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 72
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f28ffebb0cf4ae0800000000000000
+      internalID: -1562818632256835829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_28
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 61
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9358fab8c8be6a0800000000000000
+      internalID: -6418882312313423416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_29
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 78
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6120f722101b9e460800000000000000
+      internalID: 7271537691798209046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_30
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 75
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d0615df84c965f0800000000000000
+      internalID: -762862539828228790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gossip_31
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 77
+        width: 102
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19abb599721da1400800000000000000
+      internalID: 295778693553044113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gossip_0: -4877790094650515097
+      Gossip_1: -8424628501806250984
+      Gossip_10: -110723910852791693
+      Gossip_11: 5402919561023498679
+      Gossip_12: 7228642149489435186
+      Gossip_13: 3288003808796717351
+      Gossip_14: -86241973066252685
+      Gossip_15: -4857969632333875480
+      Gossip_16: 6346061066669929032
+      Gossip_17: 2191830410973889425
+      Gossip_18: 4386275859183873659
+      Gossip_19: 7251125192320062395
+      Gossip_2: -5162357167068304679
+      Gossip_20: -5819531740439905774
+      Gossip_21: -8556348428218557670
+      Gossip_22: 3929138093918613988
+      Gossip_23: -1101562482568095363
+      Gossip_24: -6709880359580293641
+      Gossip_25: 1677534862753355796
+      Gossip_26: -8420772116028315680
+      Gossip_27: -1562818632256835829
+      Gossip_28: -6418882312313423416
+      Gossip_29: 7271537691798209046
+      Gossip_3: 1395009272542840261
+      Gossip_30: -762862539828228790
+      Gossip_31: 295778693553044113
+      Gossip_4: 2433463059864858572
+      Gossip_5: 7199723715043014019
+      Gossip_6: -8753404853622778157
+      Gossip_7: -3360839119167057140
+      Gossip_8: 1720958706459002792
+      Gossip_9: -2088559922743386902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
