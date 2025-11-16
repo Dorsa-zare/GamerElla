@@ -49,21 +49,21 @@ public class SliderScript : MonoBehaviour
             targetAlpha1 = 1f;
             targetAlpha2 = 0f;
             targetAlpha3 = 0f;
-            currentOption = "so";
+            currentOption = "sp";
         }
         else if (value >= 3 && value < 6)
         {
             targetAlpha1 = 1f;
             targetAlpha2 = 1f;
             targetAlpha3 = 0f;
-            currentOption = "sp";
+            currentOption = "sx";
         }
         else
         {
             targetAlpha1 = 1f;
             targetAlpha2 = 1f;
             targetAlpha3 = 1f;
-            currentOption = "sx";
+            currentOption = "so";
         }
     }
 
