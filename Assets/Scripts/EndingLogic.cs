@@ -4,9 +4,9 @@ using UnityEngine.SceneManagement;
 public class EndingLogic : MonoBehaviour
 {
     [Header("Ending Scene Indices")]
-    public int socialEndingScene = 10;    // Scene index for social ending
-    public int sexualEndingScene = 11;    // Scene index for sexual ending
-    public int conversationEndingScene = 12; // Scene index for conversation ending
+    public int socialEndingScene = 5;    // Scene index for social ending
+    public int sexualEndingScene = 7;    // Scene index for sexual ending
+    public int conversationEndingScene = 6; // Scene index for conversation ending
 
     private GameManager gameManager;
 

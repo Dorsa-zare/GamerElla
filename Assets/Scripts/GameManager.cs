@@ -51,4 +51,14 @@ public class GameManager : MonoBehaviour
         sp = 0;
         Debug.Log("Scores reset!");
     }
+    public int GetPoints(string type)
+{
+    switch (type)
+    {
+        case "so": return so;
+        case "sp": return sp;
+        case "sx": return sx;
+        default: return 0;
+    }
+}
 }
