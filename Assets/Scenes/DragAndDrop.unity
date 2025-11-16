@@ -484,11 +484,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1603813886}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1840d923af55f4e11bec87fce2e2ba58, type: 3}
+  m_Script: {fileID: 11500000, guid: 614363daf17984b8cbce465ba270f5a4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  areaLabel: 
-  currentCard: {fileID: 0}
 --- !u!1 &1885536385
 GameObject:
   m_ObjectHideFlags: 0
@@ -647,7 +645,7 @@ GameObject:
   - component: {fileID: 2096114887}
   - component: {fileID: 2096114886}
   - component: {fileID: 2096114885}
-  - component: {fileID: 2096114884}
+  - component: {fileID: 2096114888}
   m_Layer: 0
   m_Name: Card2
   m_TagString: Untagged
@@ -655,20 +653,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &2096114884
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2096114883}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4174d47645d1f42049bf1f71667dd538, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  areaLabel: 
-  currentCard: {fileID: 0}
 --- !u!61 &2096114885
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -785,6 +769,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2096114888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2096114883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 614363daf17984b8cbce465ba270f5a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
