@@ -4,5 +4,16 @@ using UnityEngine;
 
 public class BtnSFX : MonoBehaviour
 {
-    
+    public AudioSource myFx;
+    public AudioClip hoverFX;
+    public AudioClip clickFX;
+
+    public void HoverSound()
+    {
+        myFx.PlayOneShot(hoverFX);
+    }
+    public void ClickSound()
+    {
+        myFx.PlayOneShot(clickFX);
+    }
 }
